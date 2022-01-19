@@ -47,7 +47,7 @@ function Navbar() {
   
   return (
     <div className="w-2/12 flex flex-row bg-gray-100">
-      <div className="flex flex-col w-56 bg-gery rounded-r-3xl overflow-hidden">
+      <div className="flex flex-col w-full bg-gery rounded-r-3xl overflow-hidden">
         <div className="flex items-center justify-center h-20 shadow-md">
           <h1 className="text-3xl uppercase text-indigo-500">NEXT.JS</h1>
         </div>
